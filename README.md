@@ -1,4 +1,4 @@
-skeleton
+Roman Numeral
 ========
 
-Generic skeleton for Java/Groovy
+Molly's Roman Numeral code kata
